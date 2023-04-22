@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 50px 0 100px 0;
+  background-image: url(https://1.bp.blogspot.com/-4CybOcuggUg/XqGKAWDLKEI/AAAAAAAAF3E/ZBq19VjzCmwW-h_LI9KNnat32383xSwSwCLcBGAsYHQ/s1920/doa%2Btangan-01.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  animation: pulse;
+  animation-duration: 3s;
+}
+
+.top-wrapper p {
+  font-size: medium;
+  margin-bottom: 3px;
+}
+
